@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" role="img" aria-labelledby="t">
+<title id="t">Shazanny</title>
+<rect width="512" height="512" fill="#0c0c0e"/><radialGradient id="glow" cx="50%" cy="50%" r="60%"><stop offset="0" stop-color="#3b82f6" stop-opacity=".18"/><stop offset="1" stop-color="#3b82f6" stop-opacity="0"/></radialGradient><rect width="512" height="512" fill="url(#glow)"/>
+<circle cx="325.34" cy="113.82" r="32.0" fill="#ff4f8b"/><path d="M325.34 113.82A88 88 0 0 0 168.33 160.33" fill="none" stroke="#ff4f8b" stroke-width="64" pathLength="100"/><path d="M168.08 164.16A88 88 0 0 0 256.00 256.00A88 88 0 0 1 343.67 336.33" fill="none" stroke="#3b82f6" stroke-width="64" pathLength="100"/><path d="M343.92 347.84A88 88 0 0 1 186.66 398.18" fill="none" stroke="#ef4444" stroke-width="64" pathLength="100"/><circle cx="186.66" cy="398.18" r="32.0" fill="#ef4444"/>
+</svg>
